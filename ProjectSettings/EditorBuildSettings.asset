@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Peaceful Shallows.unity
+    guid: 2fd21a5bcb640034c92c9d87ad8813df
+  - enabled: 1
+    path: Assets/_Scenes/Game Over.unity
+    guid: 376b85ca5c4d4a443a9f2eb8eda71a4e
   m_configObjects: {}
